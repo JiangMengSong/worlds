@@ -1,0 +1,16 @@
+[
+{
+  "modid": "worlds",
+  "name": "Worlds",
+  "description": "",
+  "version": "1.0.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["JueHen"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
