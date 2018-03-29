@@ -1,3 +1,6 @@
-item.copper_ingot.name=铜锭
-item.copper_ore.name=铜矿石
-tile.copper_ore.name=铜矿石
+item.ingot_copper.name=铜锭
+item.ore_copper.name=铜矿石
+tile.ore_copper.name=铜矿石
+item.wire_copper.name=铜线
+tile.wire_copper.name=铜线
+item.hammer.name=铁锤

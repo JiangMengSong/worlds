@@ -7,12 +7,20 @@ import net.minecraft.item.Item;
 /**
  * 导线父类
  */
-public abstract class WireParent extends Block {
+public abstract class Wire_Parent extends Block {
     // 电阻(导电线路品质越差,电阻越大)
-    private int resistance;
+    private float resistance;
 
-    public WireParent(int resistance) {
+    public Wire_Parent(float resistance) {
         super(Material.ROCK);
         this.resistance = resistance;
+    }
+
+    /**
+     * 获取电阻大小
+     * @return
+     */
+    public float getResistance() {
+        return resistance;
     }
 }

@@ -1,5 +1,5 @@
 {
-  "parent": "worlds:block/copper_ore",
+  "parent": "worlds:block/ore_copper",
   "display": {
     "thirdperson": {
       "rotation": [ 10, -45, 170 ],

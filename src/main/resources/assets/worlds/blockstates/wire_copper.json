@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "normal": { "model": "worlds:wire_copper" }
+  }
+}

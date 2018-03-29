@@ -1,3 +1,6 @@
-item.copper_ingot.name=CopperIngot
-item.copper_ore.name=CopperOre
-tile.copper_ore.name=CopperOre
+item.ingot_copper.name=CopperIngot
+item.ore_copper.name=CopperOre
+tile.ore_copper.name=CopperOre
+item.wire_copper.name=WireCopper
+tile.wire_copper.name=WireCopper
+item.hammer.name=hammer
